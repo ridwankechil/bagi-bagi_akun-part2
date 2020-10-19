@@ -165,7 +165,10 @@ echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
-sleep 9
+sleep 2
+echo "di like boss "
+termux-open https://youtu.be/wFBzv_5xXhU
+sleep 12
 echo $bi "felipe.carvalho12@gmail.com:A3261002a"
 sleep 6
 echo $pu "dektharivania@gmail.com:Suwara16"
