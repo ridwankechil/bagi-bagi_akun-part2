@@ -26,17 +26,17 @@ echo $me "Subscribe Dulu"
 termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
 echo $ku "tunggu 15 detik"
 sleep 15
-echo $ku "Hello guys slamat datang di AkunFree #2
-dan kali ini akan lebih banyak lagi karna sudah mencapai
-200 subscriber terimakaih, jika channel ini mencapai 500 subscriber
-maka akan bagi bagi akun lebih bagus dan lebih banyak lagi
-kalian bisa mendapatkan akun yang sultan dan akan give a way
-diamond free fire  "
+echo $ku "Hello guys slamat datang di AkunFree #2 "
+echo "dan kali ini akan lebih banyak lagi karna sudah mencapai"
+echo "200 subscriber terimakaih, jika channel ini mencapai 500 subscriber"
+echo "maka akan bagi bagi akun lebih bagus dan lebih banyak lagi"
+echo "kalian bisa mendapatkan akun yang sultan dan akan give a way"
+echo "diamond free fire  "
 clear
 sleep 1
 echo $ku "Langsung Ambil aja "
-echo "di bawah sendiri ada akun yang
- lebih banyak lagi jadi jangan di skip "
+echo "di bawah sendiri ada akun yang"
+echo "lebih banyak lagi jadi jangan di skip "
 sleep 3
 echo $bi "ini dia akun buat kalian ambil sepuasnya "
 sleep 2
@@ -44,7 +44,7 @@ echo $cy "nlsn_sylvan@yahoo.com.ph:Mrdesigner"
 sleeo 3
 echo $bi "u.ozkurt@hotmail.com:Jetzeq7602"
 sleep 3
-echo $ku "
+echo $ku "jangan di skip "
 echo $me "djcollins94@yahoo.com:Andbased47"
 sleep 2
 echo $bi "shahinnazerian@yahoo.com:KINGs22528"
@@ -69,80 +69,80 @@ echo "terimakasih " $nick
 echo "sebagai hadiah ini tambahan akun buat kalian "
 sleep 1
 echo $ku "papali.judson@gmail.com:Judson123"
-echo $or "atomicskysteam@live.fr:69360Ternay
-stellmachermirko@outlook.de:HaltdeinMau1
-golikov.n37@gmail.com:Desirash37
-yannyann972972@gmail.com:Yannou972
-luk144222@o2.pl:Spr37ze452
-dominiksekana@seznam.cz:Likos123
-dopaspos@gmail.com:7830956Susoms
-nicologalinato35@gmail.com:Qwerty12345
-hucincraft@gmail.com:Coco2000
-richard.john.mulholland@gmail.com:Nimbus19
-pr_herbst@yahoo.de:Gilian100
-hufavre@gmail.com:Aragon1995
-achmadyulfinar@gmail.com:Sibaduyut00
-uzzy_ptm38@yahoo.com:Cosmina2
-alialp756@gmail.com:Aligs1219971
-pureblood_spector@hotmail.com:Dragon3000
-seethkuuko@gmail.com:Paul1103
-d_sky89@yahoo.com:5567Wewe
-jgs5093@gmail.com:Skagen3845
-SpiriT.exe@wp.pl:Kevin400
-mitchelwiduch@hotmail.com:Mikali1993
-robbiethompson831@gmail.com:Acbrotherh00d
-rmandella@hotmail.com:Wadd1eWadd1e
-345rd@mail.ru:Gashlo1233
-irhamferdi759@gmail.com:123Kpl098
-id.solahudin@gmail.com:17Agustus
-ant.mateus96@gmail.com:Nokiaa96
-kormi0617@gmail.com:Demeter25
-shinobi068@gmail.com:A7842115a
-ainun250496@gmail.com:Gandaria25
-deny_irwansyah77@yahoo.com:Pemainbasket
-elpguitar@gmail.com:Iceiceice91
-ksdmdks@gmail.com:Abc64296429
-matadoresxd@gmail.com:Mxd468200
-sonnyjuggle@yahoo.co.id:Sialan123
-t.mueller-son@live.de:Tobias01234
-vico.boy.ah@gmail.com:Azam3011
-taylorjoverton@gmail.com:Barney123
-juggernog45@gmail.com:Nobleteam23
-k0s0v.iliya995@gmail.com:Fire20081977
-phuc.phan168@gmail.com:Vn951321
-kain.schatten@gmail.com:Darkkain666
-melissa984@hotmail.es:Cholola984
-zanxusvk@outlook.fr:Shinryujin11
-hallkpln@gmail.com:areyou012Aq
-cpt.valentin@gmail.com:Bubble3tea
-rubenmiguel45@hotmail.com:Vidiojogos
-nguyendanh0246@gmail.com:Nguyen123
-pryocrazy@gmail.com:Meisgood66
-nlsn_sylvan@yahoo.com.ph:Mrdesigner
-u.ozkurt@hotmail.com:Jetzeq7602
-mizhevich04@mail.ru:Qzwsdcvb6523
-djcollins94@yahoo.com:Andbased47
-dektharivania@gmail.com:Suwara16
-gin_pradana@yahoo.com:Dana9322
-jvbs013@gmail.com:12345Jvp
-felipe.carvalho12@gmail.com:A3261002a
-theatermc@gmail.com:Leon2015
-tushkansky@gmail.com:As170895
-mcpetic@wp.pl:Kamil1998
-sven.munk@gmx.net:Affenhirn123
-cris-4-97@hotmail.com:Mierda23
-phamminhthanh1907@gmail.com:19071986Pvm
-nikiforov.leonid@mail.ru:135792468Ylitk
-winer15@mail.ru:65Pain15
-srw1412@hotmail.com:Siriwan5
-kguerrero41603boss@gmail.com:Kalani01
-papali.judson@gmail.com:Judson123
-atomicskysteam@live.fr:69360Ternay
-stellmachermirko@outlook.de:HaltdeinMau1
-nicologalinato35@gmail.com:Qwerty12345
-dopaspos@gmail.com:7830956Susoms
-luk144222@o2.pl:Spr37ze452
-hucincraft@gmail.com:Coco2000 "
+echo $or "atomicskysteam@live.fr:69360Ternay"
+echo "stellmachermirko@outlook.de:HaltdeinMau1"
+echo "golikov.n37@gmail.com:Desirash37"
+echo "yannyann972972@gmail.com:Yannou972"
+echo "luk144222@o2.pl:Spr37ze452"
+echo "dominiksekana@seznam.cz:Likos123"
+echo "dopaspos@gmail.com:7830956Susoms"
+echo "nicologalinato35@gmail.com:Qwerty12345"
+echo "hucincraft@gmail.com:Coco2000"
+echo "richard.john.mulholland@gmail.com:Nimbus19"
+echo "pr_herbst@yahoo.de:Gilian100"
+echo "hufavre@gmail.com:Aragon1995"
+echo "achmadyulfinar@gmail.com:Sibaduyut00"
+echo "uzzy_ptm38@yahoo.com:Cosmina2"
+echo "alialp756@gmail.com:Aligs1219971"
+echo "pureblood_spector@hotmail.com:Dragon3000"
+echo "seethkuuko@gmail.com:Paul1103"
+echo "d_sky89@yahoo.com:5567Wewe"
+echo "jgs5093@gmail.com:Skagen3845"
+echo "SpiriT.exe@wp.pl:Kevin400"
+echo "itchelwiduch@hotmail.com:Mikali1993"
+echo "robbiethompson831@gmail.com:Acbrotherh00d"
+echo "rmandella@hotmail.com:Wadd1eWadd1e"
+echo "345rd@mail.ru:Gashlo1233"
+echo "irhamferdi759@gmail.com:123Kpl098"
+echo "id.solahudin@gmail.com:17Agustus"
+echo "ant.mateus96@gmail.com:Nokiaa96"
+echo "kormi0617@gmail.com:Demeter25"
+echo "shinobi068@gmail.com:A7842115a"
+echo "ainun250496@gmail.com:Gandaria25"
+echo "deny_irwansyah77@yahoo.com:Pemainbasket"
+echo "elpguitar@gmail.com:Iceiceice91"
+echo "ksdmdks@gmail.com:Abc64296429"
+echo "matadoresxd@gmail.com:Mxd468200"
+echo "sonnyjuggle@yahoo.co.id:Sialan123"
+echo "t.mueller-son@live.de:Tobias01234"
+echo "vico.boy.ah@gmail.com:Azam3011"
+echo "taylorjoverton@gmail.com:Barney123"
+echo "juggernog45@gmail.com:Nobleteam23"
+echo "k0s0v.iliya995@gmail.com:Fire20081977"
+echo "phuc.phan168@gmail.com:Vn951321"
+echo "kain.schatten@gmail.com:Darkkain666"
+echo "melissa984@hotmail.es:Cholola984"
+echo "zanxusvk@outlook.fr:Shinryujin11"
+echo "hallkpln@gmail.com:areyou012Aq"
+echo "cpt.valentin@gmail.com:Bubble3tea"
+echo "rubenmiguel45@hotmail.com:Vidiojogos"
+echo "nguyendanh0246@gmail.com:Nguyen123"
+echo "pryocrazy@gmail.com:Meisgood66"
+echo "nlsn_sylvan@yahoo.com.ph:Mrdesigner"
+echo "u.ozkurt@hotmail.com:Jetzeq7602"
+echo "mizhevich04@mail.ru:Qzwsdcvb6523"
+echo "djcollins94@yahoo.com:Andbased47"
+echo "dektharivania@gmail.com:Suwara16"
+echo "gin_pradana@yahoo.com:Dana9322"
+echo "jvbs013@gmail.com:12345Jvp"
+echo "felipe.carvalho12@gmail.com:A3261002a"
+echo "theatermc@gmail.com:Leon2015"
+echo "tushkansky@gmail.com:As170895"
+echo "mcpetic@wp.pl:Kamil1998"
+echo "sven.munk@gmx.net:Affenhirn123"
+echo "cris-4-97@hotmail.com:Mierda23"
+echo "phamminhthanh1907@gmail.com:19071986Pvm"
+echo "nikiforov.leonid@mail.ru:135792468Ylitk"
+echo "winer15@mail.ru:65Pain15"
+echo "srw1412@hotmail.com:Siriwan5"
+echo "kguerrero41603boss@gmail.com:Kalani01"
+echo "papali.judson@gmail.com:Judson123"
+echo "atomicskysteam@live.fr:69360Ternay"
+echo "stellmachermirko@outlook.de:HaltdeinMau1"
+echo "nicologalinato35@gmail.com:Qwerty12345"
+echo "dopaspos@gmail.com:7830956Susoms"
+echo "luk144222@o2.pl:Spr37ze452"
+echo "hucincraft@gmail.com:Coco2000 "
 sleep 2
 echo $or "
   ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
@@ -186,6 +186,21 @@ sleep 2
 echo "jefrideniawan@gmail.com:Jakarta48"
 fi
 
+if [ $bro = 2 ] || [ $bro = 2 ]
+
+then
+
+echo $ku "terimakasih sudah berkunjung"
+
+echo $or "share ke taman kalian buar subscriber bisa mqncapai"
+
+echo $me "500 subscriber kalo uda 500+ akan ada akun S1 lagi "
+
+echo "dan akun mobile legends sultan"
+
+echo $pu "Selamat Mencoba"
+
+fi
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
 echo $ku "terimakasih sudah berkunjung"
