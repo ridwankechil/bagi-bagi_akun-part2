@@ -1,5 +1,5 @@
 #!/bin/bash
-termux-open https://wa.me/+6285731928045?text=Hay Kak Izin Gunain Script nya:)
+
 echo "izin dulu"
 
 clear
