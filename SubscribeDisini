@@ -27,11 +27,17 @@ termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
 echo $ku "tunggu 15 detik"
 sleep 15
 echo $ku "Hello guys slamat datang di AkunFree #2 "
+sleep 3
 echo "dan kali ini akan lebih banyak lagi karna sudah mencapai"
+sleep 2
 echo "200 subscriber terimakaih, jika channel ini mencapai 500 subscriber"
+sleep 4
 echo "maka akan bagi bagi akun lebih bagus dan lebih banyak lagi"
+sleep 3
 echo "kalian bisa mendapatkan akun yang sultan dan akan give a way"
+sleep 1
 echo "diamond free fire  "
+sleep 5
 clear
 sleep 1
 echo $ku "Langsung Ambil aja "
