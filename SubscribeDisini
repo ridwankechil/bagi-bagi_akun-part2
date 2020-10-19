@@ -74,8 +74,9 @@ sleep 20
 echo "terimakasih " $nick
 echo "sebagai hadiah ini tambahan akun buat kalian "
 sleep 1
-echo $ku "papali.judson@gmail.com:Judson123"
-echo $or "atomicskysteam@live.fr:69360Ternay"
+echo $me "papali.judson@gmail.com:Judson123"
+echo $ku "atomicskysteam@live.fr:69360Ternay"
+sleep 10
 echo "stellmachermirko@outlook.de:HaltdeinMau1"
 echo "golikov.n37@gmail.com:Desirash37"
 echo "yannyann972972@gmail.com:Yannou972"
