@@ -41,7 +41,7 @@ sleep 3
 echo $bi "ini dia akun buat kalian ambil sepuasnya "
 sleep 2
 echo $cy "nlsn_sylvan@yahoo.com.ph:Mrdesigner"
-sleeo 3
+sleep 3
 echo $bi "u.ozkurt@hotmail.com:Jetzeq7602"
 sleep 3
 echo $ku "jangan di skip "
